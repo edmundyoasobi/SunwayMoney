@@ -1,0 +1,38 @@
+[
+    {
+      "name": "John Doe",
+      "dob": "1985-01-01",
+      "icNumber": "1234567",
+      "registerDate": "2022-01-01",
+      "address": "123 Main St, Springfield, USA"
+    },
+    {
+      "name": "Jane Smith",
+      "dob": "1990-02-02",
+      "icNumber": "2345678",
+      "registerDate": "2021-02-02",
+      "address": "456 Elm St, Shelbyville, USA"
+    },
+    {
+      "name": "Emily Johnson",
+      "dob": "1975-03-03",
+      "icNumber": "3456789",
+      "registerDate": "2020-03-03",
+      "address": "789 Oak St, Capital City, USA"
+    },
+    {
+      "name": "Michael Brown",
+      "dob": "1988-04-04",
+      "icNumber": "4567890",
+      "registerDate": "2019-04-04",
+      "address": "101 Pine St, Ogdenville, USA"
+    },
+    {
+      "name": "Sarah Davis",
+      "dob": "1995-05-05",
+      "icNumber": "5678901",
+      "registerDate": "2018-05-05",
+      "address": "202 Birch St, North Haverbrook"
+    }
+  ]
+  
